@@ -134,3 +134,4 @@ public class ClaseBase {
         this.driver.switchTo().frame(NameOrID);
     }
 }
+
