@@ -18,3 +18,4 @@ public class RetomarContratacionPage extends ClaseBase {
         click(esperarPorElementoAClickear(locatorBtnRetomarContratacion));
     }
 }
+
